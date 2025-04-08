@@ -1,0 +1,2 @@
+# TencentMapPanoramaCoverageAreaData
+腾讯地图街景覆盖区域数据
