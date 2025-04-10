@@ -65,3 +65,14 @@
 - 3011
 - 3604
 
+### database/mobile_street.sqlite3.db
+
+> svid及其经纬度数据库文件，可以使用命令 ` npm run build ` 构建出对应的GeoJSON文件
+
+其中:
+
+| 字段  | 含义   |
+|-----|------|
+| key | svid |
+| lng | 经度   |
+| lat | 纬度   |

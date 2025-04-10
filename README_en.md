@@ -70,3 +70,16 @@ Their idxId are:
 - 3011
 - 3604
 
+### database/mobile_street.sqlite3.db
+
+> svid and its latitude and longitude database files, you can use the command ` npm run build ` to build the
+> corresponding GeoJSON file
+
+Where:
+
+| Field | Description |
+|-------|-------------|
+| key   | svid        |
+| lng   | longitude   |
+| lat   | latitude    |
+
